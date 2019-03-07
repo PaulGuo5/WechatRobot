@@ -1,3 +1,9 @@
+## Team member
+
+- Ruochi Zhang [https://github.com/zhangruochi](https://github.com/zhangruochi)
+- Zhehao Guo [https://github.com/PaulGuo5](https://github.com/PaulGuo5)
+- Qi Lu [https://github.com/FawneLu](https://github.com/FawneLu)
+
 ## Thorough description of the project
 
 We designed a automatic reply system for a very popular chatting app among Asian people which called “wechat”. Users can use this client server system to log in their own account and perform many functions.
